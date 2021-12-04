@@ -26,11 +26,16 @@ body {
 }
 
 body a {
+  background-color: white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   text-decoration: none;
-  color: #add814;
+  color: #0f0f0a;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 1em;
+  border-radius: 40px;
 }
 
 body a svg {

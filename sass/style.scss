@@ -14,9 +14,14 @@ body{
     background-size: 100% 100%;
     width: 100%;
     a{
+        background-color: white;
         display: flex;
         text-decoration: none;
-        color: rgb(173, 216, 20);
+        color: rgb(15, 15, 10);
+        font-size: 20px;
+        font-weight: 900;
+        padding: 1em;
+        border-radius: 40px;
         svg{
             position: relative;
         }
